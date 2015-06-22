@@ -51,6 +51,10 @@ The histogram of Nile Water Volume illustrating annual changes is simple to oper
 ?hist
 ```
 
+```
+## starting httpd help server ... done
+```
+
 R Documentation in brief:
 
 The generic function hist computes a histogram of the given data values. If plot = TRUE, the resulting object of class "histogram" is plotted by plot.histogram, before it is returned. The definition of histogram differs by source (with country-specific biases). R's default with equi-spaced breaks (also the default) is to plot the counts in the cells defined by breaks. Thus the height of a rectangle is proportional to the number of points falling into the cell, as is the area provided the breaks are equally-spaced.
@@ -67,8 +71,9 @@ Completed Reports Links:
 
 Shiny Application: https://www.shinyapps.io/admin/#/application/47642
 
-Github Repository: x
+Github Repository: https://github.com/gdkarkhanis/DDP_Girish
 
-RPubs Publication: x
+Note Option 3: Open slides via index.Rmd
 
 Disclosure: The presentation of this data is limited to the historical data available and illustrated. No predictive analysis or other manipulations are performed. 
+

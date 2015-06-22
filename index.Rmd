@@ -66,8 +66,9 @@ Completed Reports Links:
 
 Shiny Application: https://www.shinyapps.io/admin/#/application/47642
 
-Github Repository: x
+Github Repository: https://github.com/gdkarkhanis/DDP_Girish
 
-RPubs Publication: x
+Note Option 3: Open slides via index.Rmd
 
 Disclosure: The presentation of this data is limited to the historical data available and illustrated. No predictive analysis or other manipulations are performed. 
+
